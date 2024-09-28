@@ -107,17 +107,20 @@ The **ToDoList DApp** is a decentralized task management application built on th
   ```
 
 ## Deployment Information
-- **Smart Contract Address**: `https://explorer.aptoslabs.com/txn/46516299?network=devnet`
-- **Transaction**: 0x0d7e060efcfd49a0d5647803fd2cd4eef70a0a14b3f53c24d19c2b122a42513a
+- **Smart Contract Address**: `https://explorer.aptoslabs.com/txn/0x5f50e8e05d96a403354d1f04c3a3e637fc4bdcca2fca098461d600fab844dc55?network=devnet`
+- **Transaction**: 0x5f50e8e05d96a403354d1f04c3a3e637fc4bdcca2fca098461d600fab844dc55
 - **Aptos Devnet URL**: `https://fullnode.devnet.aptoslabs.com`
+
+- ![image](https://github.com/user-attachments/assets/829a9027-918f-41dd-ab5c-d0cb0b67b609)
+
 
 ## Contact Information
 For inquiries or support, feel free to reach out:
 
 - **Name**: Aman Shukla
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Email**: aman.shukla.4194@gmail.com
+- **LinkedIn**: `https://www.linkedin.com/in/aman-shukla-16b8501b9/`
+- **GitHub**: `https://github.com/AmanShukla4194`
 
 ## Future Scope
 The ToDoList DApp can be expanded and enhanced in the following ways:
